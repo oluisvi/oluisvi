@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Frontend+Specialist;React+%7C+Next.js+%7C+Node.js;Building+real+world+applications;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Frontend+Developer;React+%7C+Next.js+%7C+Node.js;Building+real+world+applications;Always+learning+new+things" />
 </p>
 
 ---
