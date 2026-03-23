@@ -68,15 +68,15 @@ Always improving my backend, AI and system design skills.
 
 ## 🔥 Featured Projects
 
-### 🌱 UrbanFarm
+### <a href="https://https//fazenda-urbana.onrender.com/">🌱 UrbanFarm </a>
 
 Fullstack web application for management and organization using React, Node.js and database integration.
 
-### 🛒 E-commerce Platform
+### <a href="https://shop-co-ecommerce-three.vercel.app/">🛒 ShopCO | E-commerce </a>
 
 Development of scalable e-commerce solution with AWS integration and modern frontend architecture.
 
-### 🎯 Frontend Projects
+### <a href="https://gallery-sigma-one-89.vercel.app/">🎯 Frontend Projects</a>
 
 Modern interfaces built with React, Next.js and Tailwind CSS focusing on performance and UX.
 
