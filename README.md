@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/oluisvi/oluisvi/main/profile.png" width="180px" />
+  <img src="profile.png" width="180px" />
 </div>
 
 <h1 align="center">
