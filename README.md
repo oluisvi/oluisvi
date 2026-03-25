@@ -1,4 +1,7 @@
 <!-- HEADER ANIMADO -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oluisvi/oluisvi/main/profile.png" width="180px" style="border-radius: 50%;" />
+</div>
 
 <h1 align="center">
   Hey 👋, I'm Luis Henrique
