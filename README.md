@@ -97,7 +97,7 @@ Modern interfaces built with React, Next.js and Tailwind CSS focusing on perform
 <p align="center">
 <a href="mailto:oluisvipersonal@gmail.com">📧 Email</a> •
 <a href="https://linkedin.com/in/oluisvi">LinkedIn</a> •
-<a href="https://oluisviportifolio.vercel.app">Portfolio</a>
+<a href="https://oluisviportfolio.vercel.app">Portfolio</a>
 </p>
 
 ---
