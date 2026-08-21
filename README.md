@@ -127,8 +127,12 @@ Accounts, transactions, budgets, goals, financial health, insights, multi-curren
   </a>
 </p>
 
-<a href="https://github.com/oluisvi/atlas-finance-ai">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=oluisvi&repo=atlas-finance-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
+<a href="https://atlas-finance-web.onrender.com/">
+  <img
+    width="100%"
+    src="https://image.thum.io/get/width/1200/crop/650/png/noanimate/https://atlas-finance-web.onrender.com/"
+    alt="Atlas Finance AI"
+  />
 </a>
 
 ---
@@ -150,8 +154,12 @@ Interactive 3D, persistent catalog, authentication, inventory, checkout, Stripe 
   </a>
 </p>
 
-<a href="https://github.com/oluisvi/shop-co-ecommerce">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=oluisvi&repo=shop-co-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
+<a href="https://shop-co-store.vercel.app/">
+  <img
+    width="100%"
+    src="https://image.thum.io/get/width/1200/crop/650/png/noanimate/https://shop-co-store.vercel.app/"
+    alt="SHOP.CO"
+  />
 </a>
 
 ---
@@ -173,8 +181,12 @@ Combines product strategy, web engineering, UX/UI, SEO, accessibility, performan
   </a>
 </p>
 
-<a href="https://github.com/oluisvi/ServAgency">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=oluisvi&repo=ServAgency&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
+<a href="https://servagency.vercel.app/">
+  <img
+    width="100%"
+    src="https://image.thum.io/get/width/1200/crop/650/png/noanimate/https://servagency.vercel.app/"
+    alt="ServAgency"
+  />
 </a>
 
 ---
@@ -196,8 +208,12 @@ Features multiple interactive 3D models, automatic rotation, drag interaction, s
   </a>
 </p>
 
-<a href="https://github.com/oluisvi/hello-kitty-experience">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=oluisvi&repo=hello-kitty-experience&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
+<a href="https://hello-kitty-experience.vercel.app/">
+  <img
+    width="100%"
+    src="https://image.thum.io/get/width/1200/crop/650/png/noanimate/https://hello-kitty-experience.vercel.app/"
+    alt="A Little World For You"
+  />
 </a>
 
 ---
@@ -221,24 +237,40 @@ Want to see more projects, experiments and case studies?
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=oluisvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluisvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oluisvi&theme=tokyonight"
+  alt="Luis Henrique GitHub Profile Details"
 />
 
 <br/>
 
 <img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=oluisvi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oluisvi&theme=tokyonight"
+  alt="Luis Henrique GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oluisvi&theme=tokyonight"
+  alt="Luis Henrique Languages by Repository"
+/>
+
+<br/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oluisvi&theme=tokyonight"
+  alt="Luis Henrique Languages by Commit"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oluisvi&theme=tokyonight&utcOffset=-3"
+  alt="Luis Henrique Productive Time"
 />
 
 </div>
-
 ---
 
 # 📈 Development Activity
