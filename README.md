@@ -4,8 +4,6 @@
   <img
     src="https://github.com/user-attachments/assets/4cc14bf9-90eb-4072-9b6b-4000ddf9dc98"
     width="170"
-    height="170"
-    style="border-radius: 50%; object-fit: cover;"
     alt="Luis Henrique Vieira Barros"
   />
 </div>
